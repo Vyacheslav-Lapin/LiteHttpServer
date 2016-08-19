@@ -1,0 +1,5 @@
+rootProject.name = 'LiteHttpServer'
+
+include 'core',
+        'jdbc',
+        'web'
